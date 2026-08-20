@@ -1,31 +1,24 @@
 <div align="center">
 
-# 👨‍💻 Bijoy Lohar
-**Full-Stack Developer & Tech Innovator**  
-*Turning Complex Logic into Scalable Digital Solutions*
+<img src="https://github.com/loharbijoy2005-a11y.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00F5FF;" alt="Bijoy Lohar" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://github.com/loharbijoy2005-a11y)
-[![GitHub](https://img.shields.io/badge/GitHub-loharbijoy2005--a11y-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loharbijoy2005-a11y)
-
-<br>
+# Hey, I'm Bijoy Lohar! ⚡
+**Full-Stack Developer & Tech Builder**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Building+Scalable+Modern+Applications;API+Architect+%26+Database+Designer;Continuous+Learner+%26+Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Building+Modern+Web+Apps;Backend+%26+Database+Architect;Open+Source+Contributor" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  Passionate developer turning logic into real-world applications.<br>
+  Focused on building scalable web platforms, efficient backends, and clean UI experiences.
+</p>
 
 </div>
 
 ---
 
-### 📌 About Me
-- 🔭 **Focus Areas:** Modern Web Applications, Scalable Backend Architectures & API Integrations.
-- 💡 **Engineering Approach:** Writing clean, modular, and maintainable code with strict type safety.
-- 🚀 **Currently Building:** Full-stack digital platforms & interactive web tools.
-- 🌱 **Learning & Exploring:** Advanced Backend Systems, Cloud Deployments & Microservices.
-
----
-
-### 🐍 Contribution Activity
+### 🐍 Snake Contribution Matrix
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
@@ -33,41 +26,36 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Languages & Technologies (Original Icons)
 
-**Core Technologies & Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-**Backend, Databases & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45" style="margin: 6px; background-color: white; border-radius: 6px; padding: 2px;"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 6px; background-color: white; border-radius: 50%; padding: 2px;"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="margin: 6px;"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="45" height="45" style="margin: 6px; background-color: white; border-radius: 6px; padding: 2px;"/></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="45" height="45" style="margin: 6px;"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Analytics & Commit Flow
+### 📈 Activity & Contribution Flow
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loharbijoy2005-a11y&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loharbijoy2005-a11y&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & Developed by <b>Bijoy Lohar</b> • Continuous Integration & Automation via GitHub Actions</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF0055&height=90&section=footer" width="100%"/>
 </div>
