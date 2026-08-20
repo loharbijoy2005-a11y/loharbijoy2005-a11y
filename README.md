@@ -49,11 +49,7 @@
 ### ⚡ Activity & Contribution Matrix
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loharbijoy2005-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loharbijoy2005-a11y&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loharbijoy2005-a11y&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </p>
 
 ---
