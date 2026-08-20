@@ -30,19 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats & Consistency
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=loharbijoy2005-a11y&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&include_all_commits=true&count_private=true" width="48%" alt="Bijoy's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=loharbijoy2005-a11y&theme=tokyonight&hide_border=true&stroke=00F5FF&ring=00F5FF&fire=FF0055&currStreakNum=00F5FF&sideNums=00F5FF&sideLabels=FFFFFF&dates=7982a9" width="48%" alt="Bijoy's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loharbijoy2005-a11y&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&langs_count=6" width="60%" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠️ Technical Arsenal
 
 #### 💻 Programming Languages
@@ -78,7 +65,7 @@
 
 ---
 
-### 📈 Activity Flow
+### 📈 Activity Flow & Metrics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=loharbijoy2005-a11y&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
