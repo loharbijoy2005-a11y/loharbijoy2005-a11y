@@ -16,6 +16,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+          # Settings to fix the snake going out of bounds
+          snake_color: 'github-light'
+          padding: 2px
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
