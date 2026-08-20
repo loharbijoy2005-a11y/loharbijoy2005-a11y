@@ -49,12 +49,11 @@
 ### ⚡ Activity & Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=loharbijoy2005-a11y&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&include_all_commits=true&count_private=true" width="48%" alt="Bijoy's Stats" />
-  <img src="https://streak-stats.demolab.com?user=loharbijoy2005-a11y&theme=tokyonight&hide_border=true&stroke=00F5FF&ring=00F5FF&fire=FF0055&currStreakNum=00F5FF" width="48%" alt="Bijoy's Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=loharbijoy2005-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loharbijoy2005-a11y&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&langs_count=6" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loharbijoy2005-a11y&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 </p>
 
 ---
