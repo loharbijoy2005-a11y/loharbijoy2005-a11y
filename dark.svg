@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #0A101F; rx: 12px; }
+      .border { stroke: #1E293B; stroke-width: 1.5; fill: none; }
+      .title { font-family: ui-monospace, monospace; font-size: 13px; fill: #64748B; }
+      .text-key { font-family: ui-monospace, monospace; font-size: 14px; fill: #22D3EE; font-weight: 600; }
+      .text-val { font-family: ui-monospace, monospace; font-size: 14px; fill: #F8FAFC; }
+      .leader { font-family: ui-monospace, monospace; font-size: 14px; fill: #334155; }
+      .pill { fill: #1E1B4B; rx: 6px; }
+      .pill-text { font-family: ui-monospace, monospace; font-size: 13px; fill: #A78BFA; font-weight: bold; }
+      .live-dot { fill: #EF4444; }
+      .live-text { font-family: ui-monospace, monospace; font-size: 12px; fill: #EF4444; font-weight: bold; }
+    </style>
+  </defs>
+
+  <rect width="1180" height="610" class="bg" />
+  <rect width="1180" height="610" class="border" rx="12" />
+
+  <circle cx="30" cy="30" r="6" fill="#EF4444" />
+  <circle cx="50" cy="30" r="6" fill="#F59E0B" />
+  <circle cx="70" cy="30" r="6" fill="#10B981" />
+  <text x="100" y="35" class="title">profile.sh-live</text>
+
+  <circle cx="1020" cy="30" r="4" class="live-dot">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="1032" y="34" class="live-text">LIVE</text>
+  <rect x="1075" y="18" width="80" height="24" class="pill" />
+  <text x="1087" y="34" class="pill-text">@loharbijoy</text>
+
+  <rect x="35" y="70" width="410" height="505" fill="#0D1527" rx="8" stroke="#1E293B" />
+  <text x="50" y="95" class="title" fill="#22D3EE">VISUAL.MAP</text>
+  
+  <g fill="#A78BFA" opacity="0.85">
+    <text x="70" y="240" font-family="monospace" font-size="12">01000010 01001001 01001010 01001111 01011001</text>
+    <text x="70" y="270" font-family="monospace" font-size="12">01001100 01001111 01001000 01000001 01010010</text>
+    <text x="70" y="310" font-family="monospace" font-size="15" fill="#22D3EE">&lt;/&gt; FULL-STACK &amp; AI ENGINE</text>
+    <circle cx="240" cy="400" r="40" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="6,6">
+      <animateTransform attributeName="transform" type="rotate" from="0 240 400" to="360 240 400" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="240" cy="400" r="20" fill="none" stroke="#A78BFA" stroke-width="1.5" />
+    <text x="227" y="405" font-family="monospace" font-size="14" fill="#22D3EE">AI</text>
+  </g>
+
+  <rect x="465" y="70" width="680" height="505" fill="#0D1527" rx="8" stroke="#1E293B" />
+  <text x="485" y="95" class="title" fill="#22D3EE">SYSTEM.INFO</text>
+
+  <g transform="translate(485, 130)">
+    <text y="0" class="text-key">Subject</text>
+    <text x="140" y="0" class="leader">....................................</text>
+    <text x="430" y="0" class="text-val">Bijoy Lohar</text>
+
+    <text y="28" class="text-key">Role</text>
+    <text x="140" y="28" class="leader">....................................</text>
+    <text x="350" y="28" class="text-val">Full-Stack Dev &amp; AI Eng</text>
+
+    <text y="56" class="text-key">Origin</text>
+    <text x="140" y="56" class="leader">....................................</text>
+    <text x="410" y="56" class="text-val">Bishnupur, WB, IN</text>
+
+    <text y="84" class="text-key">Education</text>
+    <text x="140" y="84" class="leader">....................................</text>
+    <text x="375" y="84" class="text-val">Pursuing B.Tech Degree</text>
+
+    <text y="112" class="text-key">Status</text>
+    <text x="140" y="112" class="leader">....................................</text>
+    <text x="370" y="112" class="text-val" fill="#10B981">Shipping Apps &amp; Models</text>
+
+    <text y="140" class="text-key">ToolChain</text>
+    <text x="140" y="140" class="leader">....................................</text>
+    <text x="420" y="140" class="text-val">VS Code, Git, GitHub</text>
+
+    <text y="168" class="text-key">Core.Lang</text>
+    <text x="140" y="168" class="leader">....................................</text>
+    <text x="360" y="168" class="text-val">JS, TypeScript, Python</text>
+
+    <text y="196" class="text-key">Core.Frontend</text>
+    <text x="140" y="196" class="leader">....................................</text>
+    <text x="390" y="196" class="text-val">HTML5, CSS3, React</text>
+
+    <text y="224" class="text-key">Core.Backend</text>
+    <text x="140" y="224" class="leader">....................................</text>
+    <text x="375" y="224" class="text-val">Node.js, Express, REST</text>
+
+    <text y="252" class="text-key">Core.Database</text>
+    <text x="140" y="252" class="leader">....................................</text>
+    <text x="455" y="252" class="text-val">MongoDB</text>
+
+    <text y="280" class="text-key">Core.Infra</text>
+    <text x="140" y="280" class="leader">....................................</text>
+    <text x="405" y="280" class="text-val">Vercel, Render, Cloud</text>
+
+    <text y="308" class="text-key">Grid.Facebook</text>
+    <text x="140" y="308" class="leader">....................................</text>
+    <text x="430" y="308" class="text-val" fill="#1877F2">Connected</text>
+
+    <text y="336" class="text-key">Grid.Insta</text>
+    <text x="140" y="336" class="leader">....................................</text>
+    <text x="430" y="336" class="text-val" fill="#E4405F">Connected</text>
+  </g>
+</svg>
