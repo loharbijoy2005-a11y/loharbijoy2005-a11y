@@ -1,90 +1,46 @@
+<!-- Terminal Banner with Theme Switching -->
 <div align="center">
-
-<img src="https://github.com/loharbijoy2005-a11y.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00F5FF;" alt="Bijoy Lohar" />
-
-# Hey, I'm Bijoy Lohar! ⚡
-**Full-Stack Developer & Software Builder**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loharbijoy2005-a11y&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Profile Views" />
-</p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Building+Modern+Web+Apps;Backend+%26+Database+Architect;Open+Source+Contributor" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  Turning ideas into real-world applications with modern tech stacks.<br>
-  Writing clean, maintainable code and engineering seamless user experiences.
-</p>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/main/light.svg">
+    <img alt="Bijoy Lohar Terminal Profile" src="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/main/dark.svg" width="100%">
+  </picture>
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Activity Snake
-
+<!-- Dynamic Stats Cards -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=loharbijoy2005-a11y&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="Streak Stats" />
+  <br/><br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=loharbijoy2005-a11y&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loharbijoy2005-a11y&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
 </div>
 
----
+<br/>
 
-### 💻 Tech Stack & Arsenals
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-**Frontend & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
-
-**Backend & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-</p>
-
-**Cloud, DevOps & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-</p>
-
----
-
-### 📊 GitHub Stats & Consistency
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=loharbijoy2005-a11y&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=loharbijoy2005-a11y&theme=transparent&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=loharbijoy2005-a11y&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" alt="Top Languages" />
-</p>
-
----
-
+<!-- Contribution Snake -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF0055&height=90&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/loharbijoy2005-a11y/loharbijoy2005-a11y/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.facebook.com/share/1DTZjnVBM3/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0A101F" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/arrowgaming2005" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://shadowarrow.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=google-chrome&logoColor=22D3EE&labelColor=0A101F" alt="Website" />
+  </a>
 </div>
