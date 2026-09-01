@@ -31,33 +31,14 @@ Writing clean, maintainable code and engineering seamless user experiences.
 
 ---
 
-### 📊 GitHub Stats & Consistency
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=loharbijoy2005-a11y&theme=tokyonight&hide_border=true&stroke=00F5FF&ring=00F5FF&fire=FF0055&currStreakNum=00F5FF&sideNums=00F5FF&sideLabels=FFFFFF&dates=7982a9" width="49%" alt="Bijoy's GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=loharbijoy2005-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" width="49%" alt="Bijoy's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Developer-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF0055?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=Puppeteer&logoSize=auto&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Loharbijoy2005-a11y&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Loharbijoy2005-a11y&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Loharbijoy2005-a11y&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Loharbijoy2005-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Technical Arsenal
-
-#### 💻 Programming Languages
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 6px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 6px;"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 6px;"/></a>
-</p>
-
-#### 🎨 Frontend Development
-
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 6px;"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45" style="margin: 6px;"/></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
